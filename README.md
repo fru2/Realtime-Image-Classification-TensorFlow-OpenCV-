@@ -16,6 +16,9 @@ The main scripts which classifies the webcam feed in realtime.
 
 > press 'q' to quit the video feed
 
+![Down](https://i.imgur.com/js4iWl1.png)
+![Left](https://i.imgur.com/FBnTytm.png)
+
 # capture_frames.ipynb
 This scripts can be used to capture frame. 
 
