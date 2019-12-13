@@ -8,6 +8,8 @@ The model used has 4 class i.e up, down, left, right (in the form of arrow)
  > conda install tensorflow==2.0
  
  > conda install opencv
+ 
+ Use https://teachablemachine.withgoogle.com/train to create a model with ease.
 
 # image_classification.ipynb
 The main scripts which classifies the webcam feed in realtime.
